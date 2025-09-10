@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0004-median-of-two-sorted-arrays) |
+| [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +43,20 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+## Matrix
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
