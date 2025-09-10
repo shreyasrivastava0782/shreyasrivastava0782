@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 | [0214-shortest-palindrome](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1508-longest-happy-prefix](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -75,6 +76,7 @@ Here are some ideas to get you started:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1508-longest-happy-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,8 +85,10 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
