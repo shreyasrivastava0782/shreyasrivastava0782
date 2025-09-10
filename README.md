@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0038-count-and-say) |
 | [0686-repeated-string-match](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -70,5 +71,10 @@ Here are some ideas to get you started:
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0686-repeated-string-match) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
