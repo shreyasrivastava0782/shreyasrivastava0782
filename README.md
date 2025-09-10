@@ -1,4 +1,5 @@
 ## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/shreya01082006)
 
 <!--
 **shreyasrivastava0782/shreyasrivastava0782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
