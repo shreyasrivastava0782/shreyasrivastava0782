@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
@@ -59,4 +61,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
