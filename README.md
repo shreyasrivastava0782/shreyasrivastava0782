@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0038-count-and-say) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
