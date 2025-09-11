@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
@@ -91,4 +92,12 @@ Here are some ideas to get you started:
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1508-longest-happy-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
