@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0038-count-and-say) |
 | [0214-shortest-palindrome](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0214-shortest-palindrome) |
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
