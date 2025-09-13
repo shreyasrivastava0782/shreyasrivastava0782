@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+| [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Here are some ideas to get you started:
 | [0020-valid-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
@@ -105,4 +107,12 @@ Here are some ideas to get you started:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
