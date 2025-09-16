@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+| [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +117,16 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
