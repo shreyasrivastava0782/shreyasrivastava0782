@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Here are some ideas to get you started:
 | [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
@@ -145,4 +147,8 @@ Here are some ideas to get you started:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0085-maximal-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
