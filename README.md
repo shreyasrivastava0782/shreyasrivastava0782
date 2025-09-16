@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
 | [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
@@ -53,6 +54,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0232-implement-queue-using-stacks) |
@@ -90,6 +92,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -118,6 +121,7 @@ Here are some ideas to get you started:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
@@ -132,4 +136,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
