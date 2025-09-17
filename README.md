@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
@@ -160,4 +161,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
