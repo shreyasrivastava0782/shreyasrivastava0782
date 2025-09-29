@@ -171,4 +171,5 @@ Here are some ideas to get you started:
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
