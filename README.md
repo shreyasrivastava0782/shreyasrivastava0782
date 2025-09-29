@@ -156,6 +156,7 @@ Here are some ideas to get you started:
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -168,5 +169,6 @@ Here are some ideas to get you started:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
