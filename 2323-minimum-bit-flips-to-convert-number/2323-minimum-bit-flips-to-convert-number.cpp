@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int minBitFlips(int start, int goal) {
+        int xorr=start^goal;
+        int count=0;
+
+        while(xorr){
+            xorr&=(xorr-1);
+            count++;
+        }
+        return count;
+        
+    }
+};
