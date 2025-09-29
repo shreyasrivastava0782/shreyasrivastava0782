@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0735-asteroid-collision) |
@@ -171,5 +172,6 @@ Here are some ideas to get you started:
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
