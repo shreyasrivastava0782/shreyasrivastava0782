@@ -159,6 +159,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0029-divide-two-integers](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -173,5 +174,10 @@ Here are some ideas to get you started:
 | [0029-divide-two-integers](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shreyasrivastava0782/shreyasrivastava0782/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
